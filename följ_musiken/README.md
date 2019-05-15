@@ -13,6 +13,8 @@ Du startar med en bakgrund av ett piano. Klicka på **Bakgrunder**. Där ser du 
 Varje bakgrund representerar en vit tangent på pianot. Namnet på bakgrunden säger vilken ton du spelar på pianot i en C-skala.
 C-skalan består av 8 noter och är: **C D E F G A B C**.
 
+---
+
 ## 1 - Välja instrument
 
 Det första vi ska göra är att sätta bakgrund och välja instrument.
@@ -22,6 +24,8 @@ Dessa block behöver vi ha:
 ![alt text](bilder/startblock.PNG)
 
 Kan du koppla ihop dessa?
+
+---
 
 ## 2 - Spela en not
 
