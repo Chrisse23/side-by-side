@@ -73,7 +73,7 @@ Välj tillägget Makey Makey.
 
 Nu har du fått två nya block att programmera med! Kan du byta ut dessa block:
 
-![alt text](bilder/tangent-trycks-ner-block.PNG)
+![alt text](bilder/tangent-trycks-ned-block.PNG)
 
 Mot dessa block:
 
@@ -89,5 +89,9 @@ Skulle du kunna med blocket som är i bilden nedan fråga efter varje not du spe
 
 ![alt text](bilder/fraga-block.PNG)
  
+---
 
+## 6 Färdig!
+
+Gratulerar nu har du gjort ett piano som kan spela en C-skala.
 
