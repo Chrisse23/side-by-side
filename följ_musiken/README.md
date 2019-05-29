@@ -3,7 +3,7 @@
 I denna uppgift kommer du få skapa en spel som kommer att spela en melodi som du ska följa och spela samma som. Du kommer även att få lära dig lite grundläggande om noter.
 
 Starta med att klicka på nedanstående länk
-1. https://scratch.mit.edu/projects/311971291/editor/
+1. [https://scratch.mit.edu/projects/311971291/editor/](https://scratch.mit.edu/projects/311971291/editor/)
 
 Du startar med en bakgrund av ett piano. Klicka på **Bakgrunder**. Där ser du att det finns flera 9 backgrunder.
 Varje bakgrund representerar en vit tangent på pianot. Namnet på bakgrunden säger vilken ton du spelar på pianot i en C-skala.
