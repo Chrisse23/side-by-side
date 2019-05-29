@@ -45,7 +45,7 @@ Testa ditt program nu och tryck på bokstaven **a** på tangentbordet, ser du at
 
 Kan du nu göra samma som ovan fast denna gång väljer du att när bokstaven **s** trycks ner ska du spela noten **D**.
 
-Fortsätt sedan med bokstäverna **d, f, g, h, j, k** som ska spela noterna ** E F G A B C**.
+Fortsätt sedan med bokstäverna **d, f, g, h, j, k** som ska spela noterna **E F G A B C**.
 
 Kan du spela hela C-skalan nu?
 
