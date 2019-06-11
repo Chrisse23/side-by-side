@@ -15,7 +15,7 @@ Längst till vänster ser du olika kategorier som heter "Rörelse", "Utseende", 
 
 ## 1 - Välja instrument
 
-Det första vi ska göra är att sätta bakgrund och välja instrument. Nu kommer vi att välja piano men sedan kan du testa att byta till ett annat instrument.
+Det första vi ska göra är att sätta bakgrund och välja instrument. Nu kommer vi att välja piano men sedan kan du testa att byta till ett annat instrument. Den gröna flaggan sätter i gång ditt progam.
 
 Dessa block behöver vi ha:
 
@@ -43,23 +43,28 @@ Nu ska vi sätta bakgrund som ska visa vilken ton vi spelar.
 
 Testa ditt program nu och tryck på bokstaven **a** på tangentbordet, ser du att du spelar noten C?
 
-Kan du nu göra samma som ovan fast denna gång väljer du att när bokstaven **s** trycks ner ska du spela noten **D**.
+---
 
-Fortsätt sedan med bokstäverna **d, f, g, h, j, k** som ska spela noterna **E F G A B C**.
+## 3 - Resten av noterna
+
+Nu ska vi programmera resten av noterna. 
+Gör samma 3 steg som innan fast denna gång väljer du att när bokstaven **s** trycks ner ska du spela noten **D** vilket är siffran 61. Efter det gör du samma sak med noten **E** som är siffran 62.
+
+Fortsätt sedan med bokstäverna **f, g, h, j, k** som ska spela noterna **F G A B C**.
 
 Kan du spela hela C-skalan nu?
 
 ---
 
-## 3 - Hemligt meddelande
+## 4 - Hemligt meddelande
+Du ska vara kvar på bakgrunder nu.
+Klicka på kategorien "Händelser" och dra ut blocket ``` Skicka din tur ``` och koppla ihop det med ``` När gröna flaggan klickas ```. Ändra sedan meddelandet till **hemligt meddelande**. Tryck sedan på den gröna flaggan och se vad som händer!
 
-Klicka på kategorien "Händelser" och dra ut blocket ``` Skicka din tur ``` och koppla ihop det med ``` Sätt instrument till piano ```. Ändra sedan meddelandet till **hemligt meddelande**. Tryck sedan på den gröna flaggan och se vad som händer!
-
-Dra nu ut samma block som innan och sätt det under ovanstående block och tryck på den gröna flaggan. Kan du spela samma melodi som precis spelades?
+Kan du spela samma melodi som precis spelades?
 
 ---
 
-## 4 - Extra utmaning
+## 5 - Extra utmaning
 
 Om du vill ha en extra utmaning kan du testa och göra ditt eget piano med Makey Makey.
 
@@ -83,7 +88,7 @@ Koppla sedan in din Makey Makey i en USB-ingång och testa att spela igen!
 
 ---
 
-## 5 - En till utmaning
+## 6 - En till utmaning
 
 Skulle du kunna med blocket som är i bilden nedan fråga efter varje not du spelar och spelaren skriva in notens namn?
 
@@ -91,7 +96,7 @@ Skulle du kunna med blocket som är i bilden nedan fråga efter varje not du spe
  
 ---
 
-## 6 Färdig!
+## 7 - Färdig!
 
 Gratulerar nu har du gjort ett piano som kan spela en C-skala.
 
