@@ -47,10 +47,13 @@ Testa ditt program nu och tryck på bokstaven **a** på tangentbordet, ser du at
 
 ## 3 - Resten av noterna
 
-Nu ska vi programmera resten av noterna. 
-Gör samma 3 steg som innan fast denna gång väljer du att när bokstaven **s** trycks ner ska du spela noten **D** vilket är siffran 61. Efter det gör du samma sak med noten **E** som är siffran 62.
+Nu ska vi programmera resten av noterna.
+För varje not gör dessa tre steg:
+1. På blocket ``` När mellanslag tangenten trycks ned ``` välj en bokstav.
+2. På blocket ``` Byt bakgrund till ``` och välj **Not-**.
+3. På blocket ``` Spela not 60 i 0.25 takter ``` så klicka på siffran 60. Då kommer du få upp ett litet piano välj en not.
 
-Fortsätt sedan med bokstäverna **f, g, h, j, k** som ska spela noterna **F G A B C**.
+Bokstäverna du ska använda är **s, f, g, h, j, k** och noterna är **D(62) E(64) F(65) G(67) A(69) B(71) C(72)**.
 
 Kan du spela hela C-skalan nu?
 
